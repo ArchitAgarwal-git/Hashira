@@ -14,11 +14,11 @@ The data for each test case is stored in separate JSON files.
 ---
 
 ## Files
-index.html # Main web page
-style.css # Page styling
-ans.js # JavaScript logic
-first.json # First test case data
-second.json # Second test case data
+- index.html # Main web page
+- style.css # Page styling
+- ans.js # JavaScript logic
+- first.json # First test case data
+- second.json # Second test case data
 
 ---
 
